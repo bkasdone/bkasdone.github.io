@@ -52,7 +52,7 @@ body {
 }
 
 .paper.khaki {
-  background-color: rgb(255, 209, 152);
+  background-color: rgb(54, 221, 202);
 
 }
 
@@ -109,7 +109,7 @@ p {
   font-family: 'Zeyada';
   font-size: 50px;
   color: rgb(0, 0, 0);
-  opacity: 0.75;
+  font-weight: 500;
   user-select: none;
   text-align: center;
   filter: drop-shadow(2px 1.5px 1px rgba(0, 0, 105, 0.9));
