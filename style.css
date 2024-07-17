@@ -10,8 +10,10 @@ body {
   justify-content: center;
 
   background-size: 1000px;
-  background-image: url("https://www.psdgraphics.com/wp-content/uploads/2022/01/white-math-paper-texture.jpg");
+  background-image: url("https://wallpapers.com/images/hd/crumpled-ruled-paper-background-3awbunpr9o0mmsqj.jpg");
   background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .paper.orange {
